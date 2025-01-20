@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bai21.props" />
+</Project>

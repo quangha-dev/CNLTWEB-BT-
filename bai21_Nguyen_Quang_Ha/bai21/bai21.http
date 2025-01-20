@@ -1,0 +1,6 @@
+@bai21_HostAddress = http://localhost:5232
+
+GET {{bai21_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
